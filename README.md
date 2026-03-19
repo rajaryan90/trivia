@@ -2,3 +2,4 @@
 new project for trivia
 targeted towards kids
 random question generator
+fun learning experience
