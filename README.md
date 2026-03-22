@@ -7,3 +7,4 @@ reward system added
 generating ideas
 additional brainstorming
 Looking for feedback
+Collected feedback
