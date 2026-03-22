@@ -8,3 +8,4 @@ generating ideas
 additional brainstorming
 Looking for feedback
 Collected feedback
+Major changes required
