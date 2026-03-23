@@ -9,3 +9,4 @@ additional brainstorming
 Looking for feedback
 Collected feedback
 Major changes required
+Going as per plan
