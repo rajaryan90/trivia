@@ -13,3 +13,4 @@ Going as per plan
 New trivia planned
 Serious tasks added
 Making it interactive
+Taking time to design
