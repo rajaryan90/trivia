@@ -18,3 +18,4 @@ Generating loop
 Adding bank
 Added few new features
 Tier reward system
+Debating on rewards
