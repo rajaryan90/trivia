@@ -21,3 +21,4 @@ Tier reward system
 Debating on rewards
 Few bugs discovered
 Working on a fix
+Security improved
