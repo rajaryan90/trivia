@@ -28,3 +28,4 @@ Live interactions done
 Understanding user behavior
 Time limit added
 Making sure all new feature are added soon
+Project progress 30 percent
