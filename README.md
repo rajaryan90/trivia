@@ -30,3 +30,4 @@ Time limit added
 Making sure all new feature are added soon
 Project progress 30 percent
 Few more bugs fixed
+Complex trivia designed
