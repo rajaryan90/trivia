@@ -35,3 +35,4 @@ Challenging levels for higher engagement
 New trivia source added
 Complex combination of trivia deviced
 Trivia work going smoothly
+App working fine
